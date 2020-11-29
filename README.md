@@ -7,12 +7,21 @@
   - Department of Electrical Engineering ⚡
 
 ## 💻 SKILLS
-### LANGUAGE
+### LANGUAGES
 - JavaScript
 - Swift
 - Kotlin
 - Python  
 etc.
+### FRAMEWORKS
+- Vue.js
+- Nuxt.js
+- Angular
+- Ionic
+### PLATFORMS
+- iOS
+- Android
+- Web
 
 ## 💼 WORK EXPERIENCE
 - I work in the IT sence as an intern.
