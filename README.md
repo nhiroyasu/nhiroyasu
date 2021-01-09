@@ -1,7 +1,7 @@
 # CYAN
 ## 🙋‍♂️ ABOUT ME
 - REAL NAME : HIROYASU
-- AGE : 19
+- AGE : 20
 - FROM : 🇯🇵 JAPAN
 - OCCUPATION : 🎓 National Institute of Technology Student
   - Department of Electrical Engineering ⚡
@@ -28,6 +28,6 @@ etc.
 
 
 ## 🏃‍♂️ GITHUB ACTIVITY
-![](https://raw.githubusercontent.com/cyan-0fbcf9/cyan-0fbcf9/main/profile-summary-card-output/github/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/cyan-0fbcf9/cyan-0fbcf9/main/profile-summary-card-output/github/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/cyan-0fbcf9/cyan-0fbcf9/main/profile-summary-card-output/github/0-profile-details.svg)
+![](https://raw.githubusercontent.com/cyan-0fbcf9/cyan-0fbcf9/main/profile-summary-card-output/dracula/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/cyan-0fbcf9/cyan-0fbcf9/main/profile-summary-card-output/dracula/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/cyan-0fbcf9/cyan-0fbcf9/main/profile-summary-card-output/dracula/0-profile-details.svg)
