@@ -22,7 +22,7 @@ etc.
 - Web
 
 ## 💼 WORK EXPERIENCE
-- I work in the IT sence as an intern.
+- 2021 : Yahoo Japan Corporation
 
 
 ## 🏃‍♂️ GITHUB ACTIVITY
