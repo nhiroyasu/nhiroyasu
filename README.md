@@ -3,8 +3,6 @@
 - REAL NAME : HIROYASU
 - AGE : 20
 - FROM : 🇯🇵 JAPAN
-- OCCUPATION : 🎓 National Institute of Technology Student
-  - Department of Electrical Engineering ⚡
 
 ## 💻 SKILLS
 ### LANGUAGES
