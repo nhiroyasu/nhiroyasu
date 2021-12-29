@@ -22,7 +22,8 @@ etc.
 - Web
 
 ## 💼 WORK EXPERIENCE
-- 2021 : Yahoo Japan Corporation
+- 2019 ~ 2020 : Twogate
+- 2021 ~      : Yahoo Japan Corporation
 
 
 ## 🏃‍♂️ GITHUB ACTIVITY
