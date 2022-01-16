@@ -9,7 +9,6 @@
 - JavaScript
 - Swift
 - Kotlin
-- Python  
 etc.
 ### FRAMEWORKS
 - Vue.js
