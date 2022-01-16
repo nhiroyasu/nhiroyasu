@@ -4,21 +4,6 @@
 - AGE : 20
 - FROM : 🇯🇵 JAPAN
 
-## 💻 SKILLS
-### LANGUAGES
-- JavaScript
-- Swift
-- Kotlin
-etc.
-### FRAMEWORKS
-- Vue.js
-- Nuxt.js
-- Angular
-- Ionic
-### PLATFORMS
-- iOS
-- Android
-- Web
 
 ## 💼 WORK EXPERIENCE
 - 2019 ~ 2020 : Twogate
