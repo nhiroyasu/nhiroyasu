@@ -1,7 +1,7 @@
 # HIROYASU
 ## 🙋‍♂️ ABOUT ME
 - NAME : NIITSUMA HIROYASU
-- AGE : 23
+- AGE : 25
 - FROM : 🇯🇵 JAPAN
 
 
